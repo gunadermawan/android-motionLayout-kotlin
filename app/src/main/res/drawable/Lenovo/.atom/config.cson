@@ -1,0 +1,15 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "never"
+  editor:
+    fontSize: 25
+  "exception-reporting":
+    userId: "b238d850-2ea9-4b2c-9592-826e128e1e89"
+  github:
+    sourceRemoteName: "main"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
